@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![EduTech Academy Banner](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![EduTech Academy Banner](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 *A modern, responsive website for a fictional online learning platform built with cutting-edge web technologies*
 
@@ -53,10 +53,10 @@
 
 ## 🚀 Live Demo
 
-> **🌐 Check out the live deployment:** [EduTech Academy Live](https://your-username.github.io/EduTech_Academy)
+> **🌐 Check out the live deployment:** [EduTech Academy Live](https://TsegayIS122123.github.io/EduTech_Academy)
 
 | Mobile View | Tablet View | Desktop View |
 |------------|-------------|--------------|
 | ![Mobile](https://img.shields.io/badge/Mobile-✓-brightgreen?style=for-the-badge) | ![Tablet](https://img.shields.io/badge/Tablet-✓-blue?style=for-the-badge) | ![Desktop](https://img.shields.io/badge/Desktop-✓-purple?style=for-the-badge) |
 
-## 💻 Project Structure
+
